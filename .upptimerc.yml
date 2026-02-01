@@ -31,6 +31,10 @@ sites:
     url: https://martin-01.dataforcanada.org
   - name: Martin (Labs)
     url: https://martin-01.labs.dataforcanada.org
+  - name: Pelias (Prod)
+    url: https://pelias-01.dataforcanada.org
+  - name: Pelias (Labs)
+    url: https://pelias-01.labs.dataforcanada.org
   - name: GeoServer (Prod)
     url: https://geoserver-01.dataforcanada.org
   - name: GeoServer (Labs)
