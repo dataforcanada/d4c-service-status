@@ -1,7 +1,7 @@
 url: https://index.labs.dataforcanada.org
-status: up
-code: 200
-responseTime: 142
-lastUpdated: 2026-02-01T20:49:19.437Z
+status: down
+code: 502
+responseTime: 354
+lastUpdated: 2026-02-01T22:45:09.642Z
 startTime: 2026-02-01T19:06:30.165Z
 generator: Upptime <https://github.com/upptime/upptime>
