@@ -12,8 +12,8 @@ sites:
   - name: Data in the Lab
     url: https://data-01.labs.dataforcanada.org
     type: globalping
-    check: http
-    location: Toronto+CA,Vancouver+CA
+    check: "http"
+    location: "Toronto+CA"
   - name: Static Assets (Prod)
     url: https://static-01.dataforcanada.org
   - name: Static Assets (Labs)
