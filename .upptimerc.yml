@@ -9,8 +9,6 @@ sites:
     url: https://data-01.dataforcanada.org
   - name: Data in the Lab
     url: https://data-01.labs.dataforcanada.org
-  - name: Data in the Lab
-    url: https://data-01.labs.dataforcanada.org
   - name: Panoramax (Prod)
     url: https://panoramax-01.dataforcanada.org
   - name: Panoramax (Labs)
@@ -25,8 +23,12 @@ sites:
     url: https://zoo-project-01.labs.dataforcanada.org
   - name: Tile Server (Prod)
     url: https://tiles-01.dataforcanada.org
+    expectedStatusCodes:
+      - 404
   - name: Tile Server (Labs)
     url: https://tiles-01.labs.dataforcanada.org
+    expectedStatusCodes:
+      - 404
   - name: BitTorrent Tracker
     url: https://tracker.dataforcanada.org
   - name: Torrent Index (Prod)
