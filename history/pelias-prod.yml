@@ -1,7 +1,7 @@
 url: https://pelias-01.dataforcanada.org
-status: down
-code: 522
-responseTime: 19682
-lastUpdated: 2026-02-01T22:00:46.632Z
+status: up
+code: 200
+responseTime: 153
+lastUpdated: 2026-02-01T22:16:39.113Z
 startTime: 2026-02-01T20:49:15.813Z
 generator: Upptime <https://github.com/upptime/upptime>
