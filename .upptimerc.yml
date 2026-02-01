@@ -20,12 +20,12 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page for Data for Canada
   introTitle: "Status Page for Data for Canada"
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/dataforcanada/status-01.dataforcanada.org).
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/dataforcanada/status.dataforcanada.org).
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/dataforcanada/status-01.dataforcanada.org
+      href: https://github.com/dataforcanada/status.dataforcanada.org
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
