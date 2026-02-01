@@ -15,7 +15,6 @@ sites:
     url: https://static-01.dataforcanada.org
   - name: Static Assets (Labs)
     url: https://static-01.labs.dataforcanada.org
-  - name: Panoramax (Prod)
   - name: Tile Server (Prod)
     url: https://tiles-01.dataforcanada.org
     expectedStatusCodes:
@@ -24,6 +23,7 @@ sites:
     url: https://tiles-01.labs.dataforcanada.org
     expectedStatusCodes:
       - 404
+  - name: Panoramax (Prod)
     url: https://panoramax-01.dataforcanada.org
   - name: Panoramax (Labs)
     url: https://panoramax-01.labs.dataforcanada.org
