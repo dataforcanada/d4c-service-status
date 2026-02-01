@@ -1,19 +1,21 @@
 # Change these first
 owner: dataforcanada # Your GitHub organization or username, where this repository lives
-repo: status-01.dataforcanada.org # The name of this repository
+repo: status.dataforcanada.org # The name of this repository
 
 sites:
   - name: www.dataforcanada.org
     url: https://www.dataforcanada.org
   - name: data-01.dataforcanada.org
     url: https://data-01.dataforcanada.org
+  - name: data-01.dev.dataforcanada.org
+    url: https://data-01.dev.dataforcanada.org
 assignees:
   - diegoripley
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status-01.dataforcanada.org
+  cname: status.dataforcanada.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status Page for Data for Canada
