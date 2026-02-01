@@ -1,7 +1,7 @@
 url: https://data-01.labs.dataforcanada.org
-status: up
-code: 200
-responseTime: 161
-lastUpdated: 2026-02-01T23:17:01.802Z
+status: down
+code: 422
+responseTime: 0
+lastUpdated: 2026-02-01T23:18:55.555Z
 startTime: 2026-02-01T19:06:06.883Z
 generator: Upptime <https://github.com/upptime/upptime>
