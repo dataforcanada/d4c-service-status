@@ -11,6 +11,40 @@ sites:
     url: https://data-01.labs.dataforcanada.org
   - name: Data in the Lab
     url: https://data-01.labs.dataforcanada.org
+  # --- Imagery (Panoramax) ---
+  - name: Panoramax (Prod)
+    url: https://panoramax-01.dataforcanada.org
+  - name: Panoramax (Labs)
+    url: https://panoramax-01.labs.dataforcanada.org
+  # --- Map Services (GeoServer) ---
+  - name: GeoServer (Prod)
+    url: https://geoserver-01.dataforcanada.org
+  - name: GeoServer (Labs)
+    url: https://geoserver-01.labs.dataforcanada.org
+  # --- Processing (ZOO-Project) ---
+  - name: ZOO-Project WPS (Prod)
+    url: https://zoo-project-01.dataforcanada.org
+  - name: ZOO-Project WPS (Labs)
+    url: https://zoo-project-01.labs.dataforcanada.org
+  # --- Vector & Raster Tiles ---
+  - name: Tile Server (Prod)
+    url: https://tiles-01.dataforcanada.org
+  - name: Tile Server (Labs)
+    url: https://tiles-01.labs.dataforcanada.org
+  # --- P2P Infrastructure ---
+  - name: BitTorrent Tracker
+    url: https://tracker.dataforcanada.org
+  - name: Torrent Index (Prod)
+    url: https://index.dataforcanada.org
+  - name: Torrent Index (Labs)
+    url: https://index.labs.dataforcanada.org
+  # --- Infrastructure & Storage ---
+  - name: Static Assets (Prod)
+    url: https://static-01.dataforcanada.org
+  - name: Static Assets (Labs)
+    url: https://static-01.labs.dataforcanada.org
+  - name: Git / Source Code
+    url: https://git.dataforcanada.org
 assignees:
   - diegoripley
 
@@ -22,13 +56,9 @@ status-website:
   introTitle: "Status Page for the Data for Canada Project"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/dataforcanada/status.dataforcanada.org).
   navbar:
-    - title: Status
-      href: /
     - title: Status Updates
       href: https://github.com/dataforcanada/status.dataforcanada.org
-    - title: Prod
-      href: https://www.dataforcanada.org
-    - title: Labs
+    - title: Main Website
       href: https://www.dataforcanada.org
 
 workflowSchedule:
