@@ -1,7 +1,7 @@
 url: https://geoserver-01.labs.dataforcanada.org
-status: up
-code: 200
-responseTime: 376
-lastUpdated: 2026-02-03T23:21:20.035Z
+status: down
+code: 521
+responseTime: 72
+lastUpdated: 2026-02-04T14:09:12.148Z
 startTime: 2026-02-01T19:06:14.884Z
 generator: Upptime <https://github.com/upptime/upptime>
