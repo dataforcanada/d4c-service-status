@@ -6,7 +6,7 @@ sites:
     url: https://www.dataforcanada.org
     favicon: https://raw.githubusercontent.com/dataforcanada/www.dataforcanada.org/refs/heads/main/static/favicon-32x32.png
   - name: BitTorrent Tracker (Labs)
-    url: https://tracker.labs.dataforcanada.org
+    url: https://tracker.labs.dataforcanada.org/announce
   - name: Production Ready Data
     url: https://data-01.dataforcanada.org
   - name: Data in the Lab
@@ -26,6 +26,8 @@ sites:
     url: https://tiles-01.labs.dataforcanada.org
     expectedStatusCodes:
       - 404
+  #- name: Torrent Index (Labs)
+  #  url: https://index.labs.dataforcanada.org
   #- name: Panoramax (Prod)
   #  url: https://panoramax-01.dataforcanada.org
   #- name: Panoramax (Labs)
@@ -52,8 +54,6 @@ sites:
   #  url: https://bbox-01.labs.dataforcanada.org
   #- name: Torrent Index (Prod)
   #  url: https://index.dataforcanada.org
-  - name: Torrent Index (Labs)
-    url: https://index.labs.dataforcanada.org
   #- name: Source Code
   #  url: https://git.dataforcanada.org
 assignees:
