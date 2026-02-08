@@ -10,31 +10,31 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 328,
-    "timeDay": 513,
-    "timeWeek": 328,
-    "timeMonth": 328,
-    "timeYear": 328,
+    "time": 336,
+    "timeDay": 500,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {}
   },
   {
     "name": "BitTorrent Tracker (Labs)",
-    "url": "https://tracker.labs.dataforcanada.org",
+    "url": "https://tracker.labs.dataforcanada.org/announce",
     "icon": "https://icons.duckduckgo.com/ip3/tracker.labs.dataforcanada.org.ico",
     "slug": "bit-torrent-tracker-labs",
-    "status": "down",
-    "uptime": "7.29%",
-    "uptimeDay": "7.29%",
-    "uptimeWeek": "7.29%",
-    "uptimeMonth": "7.29%",
-    "uptimeYear": "7.29%",
-    "time": 518,
-    "timeDay": 518,
-    "timeWeek": 518,
-    "timeMonth": 518,
-    "timeYear": 518,
+    "status": "up",
+    "uptime": "2.01%",
+    "uptimeDay": "2.01%",
+    "uptimeWeek": "2.01%",
+    "uptimeMonth": "2.01%",
+    "uptimeYear": "2.01%",
+    "time": 438,
+    "timeDay": 438,
+    "timeWeek": 438,
+    "timeMonth": 438,
+    "timeYear": 438,
     "dailyMinutesDown": {
-      "2026-02-08": 0
+      "2026-02-08": 6
     }
   },
   {
@@ -49,7 +49,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 292,
-    "timeDay": 176,
+    "timeDay": 214,
     "timeWeek": 292,
     "timeMonth": 292,
     "timeYear": 292,
@@ -84,11 +84,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.46%",
-    "time": 265,
-    "timeDay": 420,
-    "timeWeek": 265,
-    "timeMonth": 265,
-    "timeYear": 265,
+    "time": 264,
+    "timeDay": 363,
+    "timeWeek": 264,
+    "timeMonth": 264,
+    "timeYear": 264,
     "dailyMinutesDown": {
       "2026-02-01": 49
     }
@@ -104,11 +104,11 @@
     "uptimeWeek": "99.46%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "99.46%",
-    "time": 280,
-    "timeDay": 392,
-    "timeWeek": 280,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "time": 279,
+    "timeDay": 350,
+    "timeWeek": 279,
+    "timeMonth": 279,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2026-02-01": 49
     }
@@ -124,11 +124,11 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.22%",
-    "time": 144,
-    "timeDay": 165,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 147,
+    "timeDay": 175,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {
       "2026-02-01": 71
     }
@@ -144,31 +144,13 @@
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.22%",
-    "time": 90,
-    "timeDay": 78,
-    "timeWeek": 90,
-    "timeMonth": 90,
-    "timeYear": 90,
+    "time": 97,
+    "timeDay": 127,
+    "timeWeek": 97,
+    "timeMonth": 97,
+    "timeYear": 97,
     "dailyMinutesDown": {
       "2026-02-01": 71
     }
-  },
-  {
-    "name": "Torrent Index (Labs)",
-    "url": "https://index.labs.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/index.labs.dataforcanada.org.ico",
-    "slug": "torrent-index-labs",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 260,
-    "timeDay": 351,
-    "timeWeek": 260,
-    "timeMonth": 260,
-    "timeYear": 260,
-    "dailyMinutesDown": {}
   }
 ]
