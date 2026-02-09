@@ -2,11 +2,12 @@ owner: dataforcanada
 repo: status.dataforcanada.org
 
 sites:
-  - name: Main Website
-    url: https://www.dataforcanada.org
-    favicon: https://raw.githubusercontent.com/dataforcanada/www.dataforcanada.org/refs/heads/main/static/favicon-32x32.png
   - name: BitTorrent Tracker (Labs)
     url: https://tracker.labs.dataforcanada.org/announce
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/peer-to-peer-icon.svg
+  - name: Main Website
+    url: https://www.dataforcanada.org
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   - name: Production Ready Data
     url: https://data-01.dataforcanada.org
   - name: Data in the Lab
@@ -14,18 +15,23 @@ sites:
     type: globalping
     check: "http"
     location: "Toronto+CA"
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   - name: Static Assets (Prod)
     url: https://static-01.dataforcanada.org
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   - name: Static Assets (Labs)
     url: https://static-01.labs.dataforcanada.org
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   - name: Tile Server (Prod)
     url: https://tiles-01.dataforcanada.org
     expectedStatusCodes:
       - 404
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   - name: Tile Server (Labs)
     url: https://tiles-01.labs.dataforcanada.org
     expectedStatusCodes:
       - 404
+    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   #- name: Torrent Index (Labs)
   #  url: https://index.labs.dataforcanada.org
   #- name: Panoramax (Prod)
