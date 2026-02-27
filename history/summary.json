@@ -1,25 +1,5 @@
 [
   {
-    "name": "P2P Tracker (Labs)",
-    "url": "https://tracker.labs.dataforcanada.org/announce",
-    "icon": "https://icons.duckduckgo.com/ip3/tracker.labs.dataforcanada.org.ico",
-    "slug": "p2-p-tracker-labs",
-    "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.75%",
-    "uptimeYear": "99.75%",
-    "time": 320,
-    "timeDay": 464,
-    "timeWeek": 373,
-    "timeMonth": 320,
-    "timeYear": 320,
-    "dailyMinutesDown": {
-      "2026-02-13": 58
-    }
-  },
-  {
     "name": "Main Website",
     "url": "https://www.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.dataforcanada.org.ico",
@@ -30,138 +10,13 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.88%",
-    "time": 350,
-    "timeDay": 329,
-    "timeWeek": 265,
-    "timeMonth": 350,
-    "timeYear": 350,
+    "time": 349,
+    "timeDay": 330,
+    "timeWeek": 273,
+    "timeMonth": 349,
+    "timeYear": 349,
     "dailyMinutesDown": {
       "2026-02-19": 44
-    }
-  },
-  {
-    "name": "Production Ready Data",
-    "url": "https://data-01.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/data-01.dataforcanada.org.ico",
-    "slug": "production-ready-data",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 171,
-    "timeWeek": 178,
-    "timeMonth": 256,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Data in the Lab",
-    "url": "https://data-01.labs.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/data-01.labs.dataforcanada.org.ico",
-    "slug": "data-in-the-lab",
-    "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "96.35%",
-    "uptimeWeek": "99.16%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.55%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2026-02-26": 53,
-      "2026-02-22": 32,
-      "2026-02-19": 80,
-      "2026-02-18": 28,
-      "2026-02-17": 49,
-      "2026-02-16": 49,
-      "2026-02-14": 177,
-      "2026-02-13": 58
-    }
-  },
-  {
-    "name": "Static Assets (Prod)",
-    "url": "https://static-01.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/static-01.dataforcanada.org.ico",
-    "slug": "static-assets-prod",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 279,
-    "timeDay": 180,
-    "timeWeek": 344,
-    "timeMonth": 279,
-    "timeYear": 279,
-    "dailyMinutesDown": {
-      "2026-02-01": 49
-    }
-  },
-  {
-    "name": "Static Assets (Labs)",
-    "url": "https://static-01.labs.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/static-01.labs.dataforcanada.org.ico",
-    "slug": "static-assets-labs",
-    "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 305,
-    "timeDay": 191,
-    "timeWeek": 328,
-    "timeMonth": 305,
-    "timeYear": 305,
-    "dailyMinutesDown": {
-      "2026-02-01": 49
-    }
-  },
-  {
-    "name": "Tile Server (Prod)",
-    "url": "https://tiles-01.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/tiles-01.dataforcanada.org.ico",
-    "slug": "tile-server-prod",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 230,
-    "timeDay": 89,
-    "timeWeek": 118,
-    "timeMonth": 230,
-    "timeYear": 230,
-    "dailyMinutesDown": {
-      "2026-02-01": 71
-    }
-  },
-  {
-    "name": "Tile Server (Labs)",
-    "url": "https://tiles-01.labs.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/tiles-01.labs.dataforcanada.org.ico",
-    "slug": "tile-server-labs",
-    "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
-    "time": 208,
-    "timeDay": 57,
-    "timeWeek": 120,
-    "timeMonth": 208,
-    "timeYear": 208,
-    "dailyMinutesDown": {
-      "2026-02-01": 71
     }
   }
 ]
