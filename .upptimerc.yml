@@ -6,6 +6,8 @@ sites:
   - name: Main Website
     url: https://www.dataforcanada.org
     faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
+  - name: Source Code
+    url: https://git.dataforcanada.org
 #  - name: P2P Tracker
 #    url: https://tracker.labs.dataforcanada.org/announce
 #    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/peer-to-peer-icon.svg
@@ -50,8 +52,6 @@ sites:
   #  url: https://bbox-01.labs.dataforcanada.org
   #- name: Torrent Index (Prod)
   #  url: https://index.dataforcanada.org
-  #- name: Source Code
-  #  url: https://git.dataforcanada.org
 assignees:
   - diegoripley
 
