@@ -10,6 +10,8 @@ sites:
     url: https://git.dataforcanada.org
   - name: S3 Labs
     url: https://s3.labs.dataforcanada.org
+  - name: SearXNG Labs
+    url: https://searxng.labs.dataforcanada.org
 #  - name: P2P Tracker
 #    url: https://tracker.labs.dataforcanada.org/announce
 #    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/peer-to-peer-icon.svg
