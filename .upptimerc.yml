@@ -8,6 +8,8 @@ sites:
     faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/cloudflare-logo.svg
   - name: Source Code
     url: https://git.dataforcanada.org
+  - name: S3
+    url: https://s3.dataforcanada.org
   - name: S3 Labs
     url: https://s3.labs.dataforcanada.org
   - name: SearXNG Labs
