@@ -24,21 +24,22 @@
     "url": "https://git.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.dataforcanada.org.ico",
     "slug": "source-code",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 312,
-    "timeDay": 295,
-    "timeWeek": 354,
-    "timeMonth": 374,
-    "timeYear": 312,
+    "time": 469,
+    "timeDay": 9821,
+    "timeWeek": 2728,
+    "timeMonth": 1028,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2026-02-01": 22,
       "2026-02-04": 238,
-      "2026-04-30": 85
+      "2026-04-30": 85,
+      "2026-08-04": 1
     }
   },
   {
