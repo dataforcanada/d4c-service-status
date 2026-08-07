@@ -24,22 +24,22 @@
     "url": "https://git.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/git.dataforcanada.org.ico",
     "slug": "source-code",
-    "status": "down",
-    "uptime": "99.77%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.77%",
-    "time": 620,
-    "timeDay": 10002,
-    "timeWeek": 4602,
-    "timeMonth": 1646,
-    "timeYear": 620,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "96.08%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.73%",
+    "time": 617,
+    "timeDay": 6725,
+    "timeWeek": 4159,
+    "timeMonth": 1598,
+    "timeYear": 617,
     "dailyMinutesDown": {
       "2026-02-01": 22,
       "2026-02-04": 238,
       "2026-04-30": 85,
-      "2026-08-07": 1
+      "2026-08-07": 57
     }
   },
   {
@@ -103,19 +103,19 @@
     "url": "https://searxng.labs.dataforcanada.org",
     "icon": "https://icons.duckduckgo.com/ip3/searxng.labs.dataforcanada.org.ico",
     "slug": "sear-xng-labs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 480,
-    "timeDay": 10050,
-    "timeWeek": 2734,
-    "timeMonth": 978,
-    "timeYear": 480,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.16%",
+    "uptimeWeek": "99.45%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.96%",
+    "time": 477,
+    "timeDay": 6757,
+    "timeWeek": 2449,
+    "timeMonth": 951,
+    "timeYear": 477,
     "dailyMinutesDown": {
-      "2026-08-07": 0
+      "2026-08-07": 55
     }
   }
 ]
