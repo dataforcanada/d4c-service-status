@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 271,
-    "timeDay": 318,
-    "timeWeek": 293,
-    "timeMonth": 219,
+    "timeDay": 264,
+    "timeWeek": 283,
+    "timeMonth": 218,
     "timeYear": 271,
     "dailyMinutesDown": {
       "2026-02-19": 44
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.78%",
-    "time": 571,
-    "timeDay": 252,
-    "timeWeek": 376,
-    "timeMonth": 1454,
-    "timeYear": 571,
+    "time": 568,
+    "timeDay": 257,
+    "timeWeek": 361,
+    "timeMonth": 1420,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2026-02-01": 22,
       "2026-02-04": 238,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 187,
-    "timeWeek": 203,
-    "timeMonth": 203,
+    "timeDay": 203,
+    "timeWeek": 205,
+    "timeMonth": 204,
     "timeYear": 204,
     "dailyMinutesDown": {}
   },
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 212,
-    "timeDay": 325,
-    "timeWeek": 260,
-    "timeMonth": 235,
+    "timeDay": 256,
+    "timeWeek": 251,
+    "timeMonth": 234,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2026-05-01": 34
@@ -92,30 +92,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 170,
-    "timeDay": 180,
-    "timeWeek": 165,
+    "timeDay": 200,
+    "timeWeek": 172,
     "timeMonth": 224,
     "timeYear": 170,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "SearXNG Labs",
-    "url": "https://searxng.labs.dataforcanada.org",
-    "icon": "https://icons.duckduckgo.com/ip3/searxng.labs.dataforcanada.org.ico",
-    "slug": "sear-xng-labs",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.97%",
-    "time": 438,
-    "timeDay": 91,
-    "timeWeek": 261,
-    "timeMonth": 868,
-    "timeYear": 438,
-    "dailyMinutesDown": {
-      "2026-08-07": 55
-    }
   }
 ]
