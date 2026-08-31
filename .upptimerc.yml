@@ -14,8 +14,6 @@ sites:
     url: https://s3.labs.dataforcanada.org
   - name: Objex Labs
     url: https://objex.labs.dataforcanada.org
-  - name: SearXNG Labs
-    url: https://searxng.labs.dataforcanada.org
 #  - name: P2P Tracker
 #    url: https://tracker.labs.dataforcanada.org/announce
 #    faviconSvg: https://raw.githubusercontent.com/dataforcanada/static.dataforcanada.org/refs/heads/main/assets/svg/peer-to-peer-icon.svg
